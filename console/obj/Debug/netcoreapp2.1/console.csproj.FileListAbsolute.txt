@@ -1,0 +1,11 @@
+E:\StudyCode\customer-container\customer-container\console\bin\Debug\netcoreapp2.1\console.deps.json
+E:\StudyCode\customer-container\customer-container\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.json
+E:\StudyCode\customer-container\customer-container\console\bin\Debug\netcoreapp2.1\console.runtimeconfig.dev.json
+E:\StudyCode\customer-container\customer-container\console\bin\Debug\netcoreapp2.1\console.dll
+E:\StudyCode\customer-container\customer-container\console\bin\Debug\netcoreapp2.1\console.pdb
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.csprojAssemblyReference.cache
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.csproj.CoreCompileInputs.cache
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.AssemblyInfoInputs.cache
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.AssemblyInfo.cs
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.dll
+E:\StudyCode\customer-container\customer-container\console\obj\Debug\netcoreapp2.1\console.pdb
